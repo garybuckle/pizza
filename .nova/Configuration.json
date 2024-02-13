@@ -1,0 +1,14 @@
+{
+  "eablokker.tabsSidebar.config.collapsedFolders" : [
+
+  ],
+  "eablokker.tabsSidebar.config.customKindGroupsOrder" : [
+    "javascript",
+    "css"
+  ],
+  "eablokker.tabsSidebar.config.customTabOrder" : [
+    "file:\/\/\/Users\/garybuckle\/Coding\/pizza\/app\/page.js",
+    "file:\/\/\/Users\/garybuckle\/Coding\/pizza\/components\/images\/image-slider.js",
+    "file:\/\/\/Users\/garybuckle\/Coding\/pizza\/app\/page.module.css"
+  ]
+}
